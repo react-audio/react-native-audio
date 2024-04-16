@@ -1,0 +1,25 @@
+{
+  "name": "@react-native-audio/audio",
+  "version": "0.0.1",
+  "description": "Native Module for Audio Recording",
+  "devDependencies": {
+    "@biomejs/biome": "^1.7.0",
+    "react-native-test-app": "^3.5.8",
+    "turbo": "^1.13.2",
+    "typescript": "^5.4.5"
+  },
+  "keywords": [
+    "react-native",
+    "ios",
+    "android"
+  ],
+  "license": "MIT",
+  "author": "Jesse Katsumata <jesse.katsumata@gmail.com> (https://github.com/Naturalclar)",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/react-audio/react-native-audio.git"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  }
+}
